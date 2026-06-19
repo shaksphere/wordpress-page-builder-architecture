@@ -1,5 +1,5 @@
 ---
-name: no-build-wp-builder-architecture
+name: wordpress-page-builder-architecture
 description: Architecture patterns for building a WordPress visual/page builder plugin with no build step — a single PHP renderer that drives both the front end and a same-origin iframe editor canvas, a JSON node tree stored in post meta, sanitize-on-input/escape-on-output, and compiled CSS written to cacheable files. Use when designing or extending a custom WordPress drag-and-drop builder, block/section renderer, or live editor in PHP + vanilla JS without a webpack/Vite toolchain.
 ---
 

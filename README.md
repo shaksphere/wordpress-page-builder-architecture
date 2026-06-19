@@ -1,4 +1,4 @@
-# no-build-wp-builder-architecture
+# wordpress-page-builder-architecture
 
 A [Claude Code](https://claude.com/claude-code) **skill** capturing the
 architecture for building a WordPress visual/page builder plugin **with no build
@@ -22,8 +22,8 @@ It's a distilled, reusable version of the patterns behind
 ## Install
 
 ```bash
-git clone https://github.com/shaksphere/no-build-wp-builder-architecture.git \
-  ~/.claude/skills/no-build-wp-builder-architecture
+git clone https://github.com/shaksphere/wordpress-page-builder-architecture.git \
+  ~/.claude/skills/wordpress-page-builder-architecture
 ```
 
 Claude Code loads skills from `~/.claude/skills/` (user scope) or a project's
